@@ -1,7 +1,7 @@
 ## **enndubyu.github.io**
 ### *Hi there! Welcome to this document. Feel free to stay as long you like. It's no trouble, really!*
 -----
-I'm a electrical engineer in Seattle, WA.
+I'm an electrical engineer in Seattle, WA.
 
 :computer: **linkedin:** https://www.linkedin.com/in/nwinterer/
 
