@@ -1,5 +1,5 @@
 ## **enndubyu.github.io**
-### *Hi there! Welcome to this document. Feel free to stay as long you like. It's no trouble, really!*
+### *Hi there! Welcome to this document. Feel free to stay as long you like.*
 -----
 I'm an electrical engineer in Seattle, WA.
 
