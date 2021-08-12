@@ -1,5 +1,7 @@
-## **enndubyu.github.io**
-### *Hi there! Welcome to this document. Feel free to stay as long you like.*
+# **enndubyu.github.io**
+
+*Hi there! Welcome to this document. Feel free to stay as long you like.*
+
 -----
 I'm an electrical engineer in Seattle, WA.
 
@@ -10,13 +12,14 @@ I'm an electrical engineer in Seattle, WA.
 :radio: **callsign:** KG6TKB
 
 :wrench: **Interests:**
-  - Software Defined Radio
-  - DSP
-  - Embedded Software
-  - C++
-  - Logic Design
-  - RF Circuit Design/Amateur Radio
-  - Comms
+
+- Software Defined Radio
+- Signal Processing
+- Embedded Systems
+- C++
+- Digital Logic
+- Amateur Radio
+- Communication Systems
 
 :key: **Public keys:**
 <details>
