@@ -3,9 +3,11 @@
 *Hi there! Welcome to this document. Feel free to stay as long as you like.*
 
 -----
-I'm an electrical engineer in Seattle, WA.
+I'm an electrical engineer near Seattle, WA.
 
 :computer: **linkedin:** https://www.linkedin.com/in/nwinterer/
+
+:octocat: **github:** https://github.com/enndubyu
 
 :e-mail: **email:** nw@berkeley.edu
 
