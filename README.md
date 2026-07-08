@@ -76,8 +76,8 @@ I'm an electrical engineer near Seattle, WA.
 </details>
 
 <details>
-  <summary>SSH</summary>
+  <summary>age</summary>
 
-    ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDJsFV/zz2oBPV5Dm0FfLkcedlzGMW7dan625aAwNvZqdfg6JvPv+i09siFnCMoVGyqqvYOafJm9BQcZPai8WGVAK68DZkS2dWrwWad1uTf+S8ahl3IYgqx1/7BlQo7KZ2PrlVUgNBkZcPw/szOdiPiOn7RcQjSGMbaqnMVWv7G70t4uGrghi7Jp9t7nye/Umhyl/tyKLk1Pvo60YLUWhYvShvh67Of2pivL8jdKAnqnNrekvEqdb4/vNdiPuBz2fowQs9JSoxynYq0iX3vfqILu0pU9kiKzqrS6J4Q+1bhSA5IltQs/PMLxuF8W7xsaI/L8iHox33REyXbSJmD/I+6sJ81kGS/zUfXkWQJVsoe0NehsJUrgXuZuULL0TG9NOKA0vy7Hk9tVphqblU2ASaB/OOp86nfSegTz9Fk31eI36DzYLu6or6URzwCB7epdKMsaFijZBEKvyMud72wHR+5+joLJ1id02CghwMh1MmlCdEiTQjPUtIA7XvqiMraBK3k30O/JfEqx/slC6UL3D8VqalIO3e6hTGizpDJvhw/WXxFNbgdVSMpU6Hb/430x/mZv+58wxrSuj0VmTKAJWFQVSRwjEuxG29ymQ4Bt1fb4vW3xEkE1BdUa7HFcpcaaSDHrMHf7fU9YiDCteurvJJEz99TwbtdApAh5G4e8zauBw== nw@berkeley.edu
-
+     age1jqga5xh54z7wpvmsna67ae8a645dcx4g7f90kpr994mvjn576fns2mht9k
+    
 </details>
